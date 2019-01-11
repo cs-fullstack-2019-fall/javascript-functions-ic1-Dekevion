@@ -6,7 +6,7 @@
 Create a function that prints Hello. Create another function that prints World. Call both functions.
 
 ### Problem 2
-Create a function that will display an alert when a string is sent to it. Additionally, create a variable named favoriteTeacher and assign it "Kevin". Send the favoriteTeacher variable to the new function.
+create a variable named favoriteTeacher and assign it "Kevin". Send the favoriteTeacher variable to a function that will display an alert when a string is sent to it.
 
 ### Problem 3
 Using the code below:
